@@ -1,0 +1,15 @@
+.reg{}
+.reg h3{
+    font-size: 0.6rem;
+    font-weight: bold;
+    letter-spacing: 0.3rem;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0.4rem;
+}
+.reg button{
+    margin-top: 2rem;
+}
+.reg .msg{
+    padding: 0.4rem;
+}

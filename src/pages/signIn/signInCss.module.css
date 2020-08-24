@@ -1,0 +1,24 @@
+.signIn{
+    /*background-color: #cffffa;*/
+}
+.signIn h3{
+    font-size: 0.6rem;
+    font-weight: bold;
+    letter-spacing: 0.3rem;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0.4rem;
+}
+.signIn button{
+    margin-top: 1rem;
+}
+.signIn p{
+    margin: 0.3rem 0.45rem;
+    font-size: 0.28rem;
+}
+.signIn p i{
+    float: right;
+}
+.signIn .msg{
+    padding: 0.4rem;
+}

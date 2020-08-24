@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'iconfont';
+    src: url('./font_2wx27ry5fnv/iconfont.eot');
+    src: url('./font_2wx27ry5fnv/iconfont.eot?#iefix') format('embedded-opentype'),
+    url('./font_2wx27ry5fnv/iconfont.woff2') format('woff2'),
+    url('./font_2wx27ry5fnv/iconfont.woff') format('woff'),
+    url('./font_2wx27ry5fnv/iconfont.ttf') format('truetype'),
+    url('./font_2wx27ry5fnv/iconfont.svg#iconfont') format('svg');
+}
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+#wrap{
+    position: fixed;
+    padding: 0.1rem;
+    top: 0;
+    left: 0;
+    background-color: white;
+    width: 100%;
+}
+#inputs{
+    width: 5.7rem;
+    height: 0.7rem;
+    border: 1px solid #ccc;
+    background-color: #ccc;
+    border-radius: 0.5rem;
+    padding-left: 0.9rem;
+    margin-right: 0.3rem;
+    margin-left: 0.3rem;
+}
+#search{
+    position: absolute;
+    left: 0.7rem;
+    top: 0.18rem;
+    font-size: 0.5rem;
+}
+#book{
+    font-size: 0.5rem;
+    /*line-height: 0.8rem;*/
+    /*height: 0.8rem;*/
+    vertical-align: middle;
+}

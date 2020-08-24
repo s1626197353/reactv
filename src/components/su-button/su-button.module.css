@@ -1,0 +1,40 @@
+.suButton{
+    text-align: center;
+    display: inline-block;
+    border: 0;
+    padding: 8px 15px;
+    outline: none;
+    margin: 0 auto;
+}
+.type-default{
+    border-radius: 8px;
+}
+.type-circ{
+    border-radius: 50%;
+}
+.size-small{
+    font-size: 0.2rem;
+    padding: 1px 4px;
+    background: #4c4f50;
+    color: #fff;
+    line-height: 0.45rem;
+}
+.size-large{
+    height: 0.85rem;
+    width: 89%;
+    background: #6a6f70;
+    color: #fff;
+    font-size: 0.4rem;
+    letter-spacing: 0.3rem;
+    line-height: 0.45rem;
+    margin-left: 0.42rem;
+}
+.size-default{
+    font-size: 0.28rem;
+}
+.type-circ:active{
+    opacity: .7;
+}
+.type-default:active{
+    opacity: .7;
+}

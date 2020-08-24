@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2133146",
+      "name": "续费",
+      "font_class": "xufei",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "5708101",
+      "name": "VIP",
+      "font_class": "VIP",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "6187062",
+      "name": "右箭头",
+      "font_class": "arrow-backimg",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "12191742",
+      "name": "消 息",
+      "font_class": "xiaoxi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12516398",
+      "name": "设 置 (1)",
+      "font_class": "shezhi",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    }
+  ]
+}

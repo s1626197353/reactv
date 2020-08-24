@@ -1,0 +1,37 @@
+{
+  "id": "1994313",
+  "name": "reactv",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "323349",
+      "name": "连载",
+      "font_class": "lianzai",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "7320679",
+      "name": "看完一本完本",
+      "font_class": "kanwanyibenwanben",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "13053633",
+      "name": "榜单",
+      "font_class": "bangdan1",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "15077188",
+      "name": "分类-选中",
+      "font_class": "classify-act",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

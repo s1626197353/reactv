@@ -1,0 +1,54 @@
+/*样式一*/
+.list{
+    padding: 0.2rem;
+}
+.list p{
+    display: none;
+}
+.list>div{
+    float: left;
+    margin-right: 0.2rem;
+}
+.list>div img{
+    width: 1.8rem;
+    height: 2.4rem;
+}
+.list dl dt{
+   font-size: 0.4rem;
+}
+.list dl dt span{
+    margin-right: 0.2rem;
+}
+.list dl div,.list dl dd{
+    color: #838383;
+}
+.list dl div{
+    margin: 0.16rem 0;
+}
+
+
+/*样式二*/
+.list2 dl .auth,.list2 dd{
+    display: none;
+}
+.list2{
+    padding: 0.2rem;
+}
+.list2>div{
+    float: left;
+    margin-right: 0.2rem;
+}
+.list2>div img{
+    width: 1.5rem;
+    height: 2rem;
+}
+.list2 dl dt{
+    font-size: 0.4rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.3rem;
+}
+.list2 dl p{
+    color: #838383;
+    font-size: 0.3rem;
+}
+

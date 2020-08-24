@@ -1,0 +1,6 @@
+{
+  "/mock/*": "/$1",
+  "/book/:_id": "/book?_id=:_id",
+  "/book\\?_id=:_id": "/book/?_id=:_id",
+  "/banner": "/banner"
+}

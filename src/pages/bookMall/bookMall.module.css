@@ -1,0 +1,23 @@
+.bookMall{
+    /*color: #ccc;*/
+}
+.bookMall .ul{
+    padding: 0.1rem 0.3rem;
+    /*padding-bottom: 0;*/
+}
+.bookMall .ul li{
+    float: left;
+    color: #6b6b6b;
+    padding: 0.1rem 0.5rem;
+    padding-bottom: 0;
+    font-size: 0.3rem;
+}
+.bookMall .ul li span{
+    /*padding: 0.2rem 0;*/
+    line-height: 0.3rem;
+    height: 0.4rem;
+    display: inline-block;
+}
+.bookMall .ul li .spanActive{
+    border-bottom: 1.5px solid black;
+}

@@ -1,0 +1,125 @@
+.detail{}
+/*ul----------------------*/
+.detail ul{
+    padding: 0.2rem;
+}
+.detail ul li{
+    float: left;
+}
+.detail ul li:first-child{
+    border: 1px solid #ccc;
+    font-size: 0;
+    width: 2rem;
+    height: 2.5rem;
+    margin-right: 0.2rem;
+    /*background-color: red;*/
+}
+.detail ul li:first-child img{
+    width: 2rem;
+    height: 2.5rem;
+}
+.detail ul li:nth-of-type(2) h3{
+    font-size: 0.45rem;
+    font-weight: bold;
+    margin-bottom: 0.1rem;
+}
+.detail ul li:nth-of-type(2) span{
+    font-size:0.34rem;
+}
+.detail ul li:nth-of-type(2) p:nth-of-type(1){
+    font-size: 0.34rem;
+    margin: 0.2rem 0;
+}
+.detail ul li:nth-of-type(2) p b{
+    font-size: 0.28rem;
+    color: #9c9c9c;
+    margin-left: 0.2rem;
+}
+.detail ul li:last-child{
+    float: right;
+}
+.detail ul li:last-child span i{
+    font-size: 0.5rem;
+    font-weight: bold;
+}
+.detail ul li:last-child p{
+    color: #aeaeae;
+    margin-bottom: 0.3rem;
+}
+.detail ul li:last-child b{
+    font-size: 0.5rem;
+    font-weight: bold;
+}
+/*-------简介--------------------*/
+.detail>p{
+    margin-top: 0.1rem;
+    padding: 0.2rem 0.3rem;
+    text-indent: 0.65rem;
+    font-size: 0.3rem;
+    color: #484848;
+}
+/*-------dl-----------------------*/
+.detail dl{
+    border-bottom: 3px solid #e2e2e2;
+}
+.detail dl dt,.detail dl dd{
+    padding: 0 0.3rem;
+    border-top: 1px solid #ccc;
+    height: 0.9rem;
+    line-height: 0.9rem;
+    font-size: 0.35rem;
+    font-weight: normal;
+}
+.detail dl span{
+    /*float: right;*/
+    font-size: 0.25rem;
+    color: #a1a1a1;
+}
+.detail dl dt span{
+    margin-left: 4rem;
+}
+.detail dl dd span{
+    margin-left: 3.5rem;
+}
+.detail dl i{
+    float: right;
+}
+/*----div------------------------*/
+.detail .bottom{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #eaeaea;
+    padding: 0.2rem;
+    /*text-align: center;*/
+    font-size: 0.4rem;
+}
+.detail .bottom span{
+    display: inline-block;
+    margin: 0 0.6rem;
+}
+.detail .bottom b{
+    display: inline-block;
+    margin: 0 0.9rem;
+}
+
+
+
+
+@font-face {
+    font-family: 'iconfont';
+    src: url('./font_jull02y71r/iconfont.eot');
+    src: url('./font_jull02y71r/iconfont.eot?#iefix') format('embedded-opentype'),
+    url('./font_jull02y71r/iconfont.woff2') format('woff2'),
+    url('./font_jull02y71r/iconfont.woff') format('woff'),
+    url('./font_jull02y71r/iconfont.ttf') format('truetype'),
+    url('./font_jull02y71r/iconfont.svg#iconfont') format('svg');
+}
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

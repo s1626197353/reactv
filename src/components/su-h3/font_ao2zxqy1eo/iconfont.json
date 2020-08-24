@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6187062",
+      "name": "右箭头",
+      "font_class": "arrow-backimg",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "14553795",
+      "name": "新东方-刷新图标",
+      "font_class": "refresh",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    }
+  ]
+}

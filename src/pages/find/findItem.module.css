@@ -1,0 +1,30 @@
+.findItem{
+    padding: 0 0.2rem;
+    border-bottom: 1px solid #ccc;
+}
+.findItem h4{
+    font-size: 0.28rem;
+    padding-top: 0.1rem;
+}
+.findItem p{
+    color: #7e7e7e;
+}
+.findItem p span{
+    margin-right: 0.2rem;
+}
+.findItem ul{
+    /*padding: 0 0.12rem;*/
+    /*margin: 0 auto;*/
+}
+.findItem ul li{
+    float: left;
+    width: 1.2rem;
+    height: 1.5rem;
+    /*background-color: coral;*/
+    margin: 0.1rem 0.09rem;
+    border: 1px solid #ccc;
+}
+.findItem ul li img{
+    width: 1.2rem;
+    height: 1.5rem;
+}

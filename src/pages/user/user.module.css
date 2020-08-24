@@ -1,0 +1,127 @@
+@font-face {
+    font-family: 'iconfont';
+    src: url('./font_rw4c6nbh46/iconfont.eot');
+    src: url('./font_rw4c6nbh46/iconfont.eot?#iefix') format('embedded-opentype'),
+    url('./font_rw4c6nbh46/iconfont.woff2') format('woff2'),
+    url('./font_rw4c6nbh46/iconfont.woff') format('woff'),
+    url('./font_rw4c6nbh46/iconfont.ttf') format('truetype'),
+    url('./font_rw4c6nbh46/iconfont.svg#iconfont') format('svg');
+}
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.user nav{
+    padding: 0.1rem 0.1rem 0 5.1rem;
+}
+.user nav span{
+    font-size: 0.5rem;
+}
+.user nav i{
+    margin-left: 0.3rem;
+    font-size: 0.5rem;
+}
+.user nav b{
+    margin-right: 0.2rem;
+    font-size: 0.3rem;
+}
+/*message*/
+.message{
+    padding: 0 0.2rem;
+}
+.message li{
+    float: left;
+}
+.message li:nth-of-type(1){
+    overflow: hidden;
+    border-radius: 50%;
+    background-color: #ffc573;
+    margin-right: 0.2rem;
+    font-size: 0;
+}
+.message img{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.message li:nth-of-type(2){
+    padding-top: 0.1rem;
+    width: 3.4rem;
+}
+.message li:nth-of-type(2) h4{
+    font-size: 0.4rem;
+}
+.message li:nth-of-type(2) i{
+    color: #EF837B;
+    font-size: 0.5rem;
+}
+.message li:nth-of-type(2) p{
+    color: #6e6e6e;
+}
+.message li:nth-of-type(3){
+    line-height: 1.5rem;
+}
+.message li:nth-of-type(3) i{
+    font-size: 0.6rem;
+    margin-right: 0.2rem;
+    color: #4f9bff;
+}
+.message li:nth-of-type(3) b{
+    font-size: 0.6rem;
+}
+/*user---------------------*/
+.user>section{
+    /*background-color: red;*/
+    text-align: center;
+}
+.user>section p{
+    font-size: 0.4rem;
+    font-weight: bold;
+}
+.user>section span{
+    color: #707070;
+    font-size: 0.26rem
+}
+/*div-------------------*/
+.user>div{
+    /*background-color: red;*/
+    margin-top: 0.2rem;
+    text-align: center;
+    padding-bottom: 0.2rem;
+    border-bottom: 4px solid #e6e6e6;
+}
+.user>div span{
+    width: 49%;
+    float: left;
+}
+.user>div span:first-child{
+    border-right: 1px solid black;
+}
+.user>div span h5{
+    font-size: 0.35rem;
+    font-weight: bold;
+}
+.user>div span b{
+    font-size:0.28rem;
+    color: #5e5e5e;
+    display: block;
+    padding-top: 0.2rem;
+}
+/*nav--------------------*/
+.user .nav li{
+    padding: 0.2rem 0.2rem;
+    height: 0.6rem;
+    font-size: 0.35rem;
+    line-height: 0.7rem;
+    border-bottom: 1px solid #ccc;
+    padding-left: 0.4rem;
+}
+.user .nav li i{
+    float: right;
+    font-size: 0.5rem;
+    padding-right: 0.2rem;
+    color: #838383;
+}

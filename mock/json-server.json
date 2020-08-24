@@ -1,0 +1,9 @@
+{
+  "port": 53000,
+  "watch": true,
+  "static": "./public/image",
+  "read-only": false,
+  "no-cors": false,
+  "no-gzip": false,
+  "routes": "./mock/route.json"
+}
